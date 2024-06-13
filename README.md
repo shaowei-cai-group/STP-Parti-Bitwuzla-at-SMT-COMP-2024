@@ -8,6 +8,8 @@ The system description is named `STP_Parti_Bitwuzla_at_SMT_COMP_2024.pdf`.
 
 As per the submission rule, we are providing the pseudo-random 32-bit unsigned number **998244353**.
 
+Zenodo DOI: 10.5281/zenodo.11629029
+
 ## Variable-level Partitioning for Distributed SMT Solving
 
 STP-Parti-Bitwuzla is the practical implementations of our innovative concept of **Var**iable-level **Parti**tioning, which is applied to the Bit-Vectors theory. This technique is introduced for the first time in our recently published paper at CAV 2024, titled *Distributed SMT Solving Based on Dynamic Variable-level Partitioning*. 
